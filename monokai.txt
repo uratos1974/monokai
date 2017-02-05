@@ -1,0 +1,42 @@
+
+Monokai
+
+                        foreground      background
+normal                  #F8F8F2         #272822
+caret                   #F8F8F0
+invisibles              #49483E
+lineHighlight           #49483E
+selection               #49483E
+comment                 #75715E
+string                  #E6DB74
+constant.numeric        #AE81FF
+constant.language       #AE81FF
+constant.character      #AE81FF
+constant.other          #AE81FF
+keyword                 #F92672
+storage                 #F92672
+storage.type            #66D9EF
+class.name              #A6E22E
+inherited-class         #A6E22E
+function.name           #A6E22E
+function.parameter      #FD971F
+tag                     #F92672
+attribute-name          #A6E22E
+support.function        #66D9EF
+support.constant        #66D9EF
+support.type            #66D9EF
+support.class           #66D9EF
+invalid                 #F8F8F0         #F92672
+invalid.deprecated      #F8F8F0         #AE81FF
+
+#272822 ブラック        Black
+#49483E グレー(暗)      Darkgray
+#F92672 マゼンタ        Red
+#A6E22E グリーン        Green
+#E6DB74 ベージュ        Yellow
+#66D9EF シアン          Blue
+#FD971F オレンジ        Magenta
+#AE81FF パープル        Cyan
+#75715E グレー(明)      Gray
+#F8F8F2 ホワイト        White
+
